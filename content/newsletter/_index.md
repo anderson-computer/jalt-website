@@ -28,8 +28,8 @@ For now, you can subscribe to the RSS feed or check back for updates.
 
 ## RSS Feeds
 
-- **All content**: [/index.xml](/index.xml)
-- **Blog only**: [/blog/index.xml](/blog/index.xml)
+- **All content**: [/feed.xml](/feed.xml)
+- **Blog only**: [/blog/feed.xml](/blog/feed.xml)
 - **Podcast**: [/podcast/feed.xml](/podcast/feed.xml)
 
 Subscribe in your favorite reader.
@@ -41,3 +41,4 @@ No hard feelings. Unsubscribe link in every email.
 ---
 
 Have a topic you'd like covered? [Let me know](/contact).
+

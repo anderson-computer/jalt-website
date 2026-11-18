@@ -1,0 +1,3 @@
+baseURL: "https://jalt.andersoncomputer.net/"
+params:
+  plausibleDomain: ""

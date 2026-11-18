@@ -14,23 +14,15 @@ Let's talk about your project.
 
 **Email**: [mike@justalittletechnical.com](mailto:mike@justalittletechnical.com)
 
-**Message**: Use the form below
+**Message**: [Send an email](mailto:mike@justalittletechnical.com)
 
 ---
 
-## Contact Form
+## Project Inquiries
 
-For project inquiries or questions, please fill this out. I'll respond within 24 hours.
-
-```
-Name: [Your name]
-Email: [your@email.com]
-Company: [Company name (optional)]
-Topic: [Consulting / Content question / Other]
-Message: [What's on your mind?]
-```
-
-*This form posts to Trixie's API and creates a lead in the CRM. You'll also receive a confirmation email.*
+[Email Mike about your project](mailto:mike@justalittletechnical.com).
+Include a brief description of your project and the best way to reach you.
+Online form submission is not enabled on this site.
 
 ---
 
@@ -52,4 +44,5 @@ Response time outside hours: next business day
 ---
 
 See something interesting? [Let me know](/contact).
+
 

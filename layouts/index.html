@@ -23,20 +23,22 @@
             <p>{{ .Summary }}</p>
             <a href="{{ .Permalink }}" class="read-more">Read More →</a>
         </article>
+        {{ else }}
+        <p>New articles will appear here when published. In the meantime, explore the <a href="/services/">services</a> and <a href="/about/">about page</a>.</p>
         {{ end }}
     </div>
 </section>
 
 <section class="newsletter-signup">
-    <h2>Subscribe to Updates</h2>
-    <p>Get the latest articles and podcasts delivered to your inbox.</p>
-    <form class="newsletter-form">
-        <input type="email" placeholder="your@email.com" required>
-        <button type="submit" class="btn btn-primary">Subscribe</button>
-    </form>
+    <h2>Follow the Latest Updates</h2>
+    <p>Read new articles in your favorite RSS reader.</p>
+    <a href="/feed.xml" class="btn btn-primary">Subscribe via RSS</a>
+    <a href="/newsletter/" class="btn btn-primary">Update options</a>
 </section>
 {{ end }}
 
 {{ define "footer" }}
     {{ partial "footer.html" . }}
 {{ end }}
+
+

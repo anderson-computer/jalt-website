@@ -5,7 +5,7 @@ title: "Just A Little Technical"
 outputs:
   home:
     - HTML
-    - JSON
+    - RSS
   page:
     - HTML
   section:
@@ -151,3 +151,4 @@ markup:
   highlight:
     lineNos: true
     style: monokai
+

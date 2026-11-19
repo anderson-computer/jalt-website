@@ -31,10 +31,8 @@ params:
   plausibleDomain: "justalittletechnical.com"
   # Social
   socialLinks:
-    twitter: "https://x.com/mike0615"
-    linkedin: "https://linkedin.com/in/mike0615"
+    linkedin: "https://www.linkedin.com/in/mikeanderson2"
     github: "https://github.com/mike0615"
-    mastodon: "https://mastodon.social/@mike0615"
 
 menu:
   main:

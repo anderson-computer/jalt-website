@@ -4,6 +4,4 @@ description: "Video content and tutorials"
 draft: false
 ---
 
-# Videos
-
-Tutorials, demos, and talks on technical topics.
+*Coming soon. Tutorials, demos, and talks are on the way.*

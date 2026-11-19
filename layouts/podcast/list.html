@@ -9,6 +9,7 @@
 </div>
 
 <div class="podcast-list">
+    {{ with .Content }}<div class="list-intro">{{ . }}</div>{{ end }}
     {{ $paginator := .Paginate (where .Pages "Type" "podcast") 20 }}
     
     {{ range $paginator.Pages }}

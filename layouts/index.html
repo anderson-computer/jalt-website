@@ -8,16 +8,18 @@
         <h1>{{ .Title }}</h1>
         <p class="hero-tagline">{{ .Site.Params.description }}</p>
         <div class="hero-cta">
-            <a href="/blog/" class="btn btn-primary">Read Latest</a>
+            <a href="/services/" class="btn btn-primary">Our Services</a>
             <a href="/contact/" class="btn btn-secondary">Get in Touch</a>
         </div>
     </div>
 </div>
 
+{{ $latest := first 3 (where .Site.RegularPages "Type" "blog") }}
+{{ if $latest }}
 <section class="content-preview">
     <h2>Latest Content</h2>
     <div class="content-grid">
-        {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+        {{ range $latest }}
         <article class="content-card">
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
             <p>{{ .Summary }}</p>
@@ -26,6 +28,7 @@
         {{ end }}
     </div>
 </section>
+{{ end }}
 
 <section class="newsletter-signup">
     <h2>Subscribe to Updates</h2>

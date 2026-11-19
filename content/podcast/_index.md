@@ -4,6 +4,4 @@ description: "The Just A Little Technical Podcast"
 draft: false
 ---
 
-# Podcast
-
-Conversations about infrastructure, operations, and the business of technology.
+*Coming soon. Episodes on infrastructure, operations, and the business of technology are on the way.*

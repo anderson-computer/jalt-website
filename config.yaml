@@ -35,22 +35,8 @@ params:
     github: "https://github.com/mike0615"
 
 menu:
+  # Blog, Podcast and Videos are intentionally left out of the menus until they have content.
   main:
-    - name: "Content"
-      url: "/content/"
-      weight: 1
-    - name: "Blog"
-      url: "/blog/"
-      parent: "Content"
-      weight: 10
-    - name: "Podcast"
-      url: "/podcast/"
-      parent: "Content"
-      weight: 20
-    - name: "Videos"
-      url: "/videos/"
-      parent: "Content"
-      weight: 30
     - name: "Services"
       url: "/services/"
       weight: 2
@@ -65,18 +51,6 @@ menu:
       weight: 5
 
   footer:
-    - name: "Content"
-      url: "/content/"
-      weight: 1
-    - name: "Blog"
-      url: "/blog/"
-      weight: 10
-    - name: "Podcast"
-      url: "/podcast/"
-      weight: 20
-    - name: "Videos"
-      url: "/videos/"
-      weight: 30
     - name: "Services"
       url: "/services/"
       weight: 40

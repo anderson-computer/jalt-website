@@ -180,4 +180,4 @@ All site settings in `config.yaml`:
 
 ## License
 
-© 2024 Just A Little Technical. All rights reserved.
+Released under the MIT License. See `LICENSE`.

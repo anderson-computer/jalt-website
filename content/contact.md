@@ -38,7 +38,7 @@ Message: [What's on your mind?]
 
 **Signal**: Private key shared on request (most secure)
 **Calendar**: [Book a time to chat](https://cal.com/mike)
-**Social**: @mike0615 on X, LinkedIn, GitHub
+**Social**: LinkedIn, GitHub (@mike0615)
 
 ---
 

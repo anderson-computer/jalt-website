@@ -31,10 +31,12 @@ params:
   plausibleDomain: "justalittletechnical.com"
   # Social
   socialLinks:
-    twitter: "https://x.com/mike0615"
+    # TODO(Mike): add your real X/Twitter URL here. https://x.com/mike0615 belongs to someone else.
+    # twitter: "https://x.com/mike0615"
     linkedin: "https://linkedin.com/in/mike0615"
     github: "https://github.com/mike0615"
-    mastodon: "https://mastodon.social/@mike0615"
+    # TODO(Mike): add your real Mastodon URL here. https://mastodon.social/@mike0615 belongs to someone else.
+    # mastodon: "https://mastodon.social/@mike0615"
 
 menu:
   main:
